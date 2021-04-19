@@ -3,7 +3,7 @@ protein contact map prediction
 
 ## Requirements
 - python3.6
-- - pytorch1.6  
+ - pytorch1.6  
  - numpy
  - matplotlib
  - pickle
