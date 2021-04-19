@@ -10,7 +10,7 @@ protein contact map prediction
 - other packages
   1. alnstats
   2. fasta2aln
-  3. CCMpred
+  3. [CCMpred](https://github.com/soedinglab/CCMpred)
   4. TGT_Package
   5. Predict_Property
   6. hh-suite
