@@ -9,7 +9,7 @@ protein contact map prediction
 - pickle
 
 ### install pytorch:
-#### Linux and Windows
+#### Linux and Windows(Conda)
     # CUDA 9.2
     conda install pytorch==1.6.0 torchvision==0.7.0 cudatoolkit=9.2 -c pytorch
 
@@ -21,6 +21,18 @@ protein contact map prediction
 
     # CPU Only
     conda install pytorch==1.6.0 torchvision==0.7.0 cpuonly -c pytorch
+#### Linux and Windows(Wheel)
+    # CUDA 10.2
+    pip install torch==1.6.0 torchvision==0.7.0
+
+    # CUDA 10.1
+    pip install torch==1.6.0+cu101 torchvision==0.7.0+cu101 -f https://download.pytorch.org/whl/torch_stable.html
+
+    # CUDA 9.2
+    pip install torch==1.6.0+cu92 torchvision==0.7.0+cu92 -f https://download.pytorch.org/whl/torch_stable.html
+
+    # CPU only
+    pip install torch==1.6.0+cpu torchvision==0.7.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
 ## INSTALL
 
 ### 1. install DRN-1D2D
