@@ -1,5 +1,6 @@
 # DRN-1D2D
 protein contact map prediction
+![image](https://user-images.githubusercontent.com/20780394/115249135-e8cfe780-a15a-11eb-8c19-2ba2bcf524d1.png)
 
 ## Requirements
 - python3.6
@@ -15,6 +16,7 @@ protein contact map prediction
   5. [Predict_Property](https://github.com/realbigws/Predict_Property)
   6. [hh-suite](https://github.com/soedinglab/hh-suite)
 
+## Installation
 ### install pytorch:
 #### Linux and Windows(Conda)
     # CUDA 9.2
