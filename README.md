@@ -82,5 +82,5 @@ protein contact map prediction
     python predictor.py a3m_file fasta_file save_path ncpu
   
 test:   
-          cd DRN-1D2D
+    cd DRN-1D2D  
     python ./scripts/predictor.py ./example/test.a3m ./example/test.fasta ./example 1
