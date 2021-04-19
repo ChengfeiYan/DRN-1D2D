@@ -3,10 +3,17 @@ protein contact map prediction
 
 ## Requirements
 - python3.6
-  - pytorch1.6  
- - numpy
- - matplotlib
- - pickle
+  1. pytorch1.6  
+  2. numpy
+  3. matplotlib
+  4. pickle
+- other packages
+  - alnstats
+  - fasta2aln
+  - CCMpred
+  - TGT_Package
+  - Predict_Property
+  - hh-suite
 
 ### install pytorch:
 #### Linux and Windows(Conda)
