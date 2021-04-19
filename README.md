@@ -8,12 +8,12 @@ protein contact map prediction
   3. matplotlib
   4. pickle
 - other packages
-  1. alnstats
+  1. [alnstats](https://github.com/psipred/metapsicov/tree/master/src)
   2. fasta2aln
   3. [CCMpred](https://github.com/soedinglab/CCMpred)
-  4. TGT_Package
-  5. Predict_Property
-  6. hh-suite
+  4. [TGT_Package](https://github.com/realbigws/TGT_Package)
+  5. [Predict_Property](https://github.com/realbigws/Predict_Property)
+  6. [hh-suite](https://github.com/soedinglab/hh-suite)
 
 ### install pytorch:
 #### Linux and Windows(Conda)
