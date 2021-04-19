@@ -79,8 +79,8 @@ protein contact map prediction
     export PATH="$(pwd)/bin:$(pwd)/scripts:$PATH"
 
 ## Usage:
-    python predictor.py a3m_file fasta_file save_path ncpu
-  
-test:   
+    python predictor.py a3m_file fasta_file save_path ncpu  
+test
+
     cd DRN-1D2D  
     python ./scripts/predictor.py ./example/test.a3m ./example/test.fasta ./example 1
