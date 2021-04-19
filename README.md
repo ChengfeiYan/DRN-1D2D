@@ -1,6 +1,6 @@
 # DRN-1D2D
 protein contact map prediction
-![image](https://user-images.githubusercontent.com/20780394/115249135-e8cfe780-a15a-11eb-8c19-2ba2bcf524d1.png)
+
 
 ## Requirements
 - python3.6
