@@ -17,7 +17,7 @@ protein contact map prediction
   6. [hh-suite](https://github.com/soedinglab/hh-suite)
 
 ## Installation
-### install pytorch:
+### 一 install python environments(pytorch):
 #### Linux and Windows(Conda)
     # CUDA 9.2
     conda install pytorch==1.6.0 torchvision==0.7.0 cudatoolkit=9.2 -c pytorch
