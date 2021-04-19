@@ -17,8 +17,8 @@ def read_pssm(pssm_file):
     data_dict = pickle.loads(data,encoding='bytes')
     fr.close()
 
-    PSSM = data_dict['PSSM'.encode()]
-    PSFM = data_dict['PSFM'.encode()]
+    PSSM = data_dict['PSSM']
+    PSFM = data_dict['PSFM']
     return PSSM,PSFM
 
 
