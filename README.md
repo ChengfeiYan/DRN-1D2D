@@ -1,10 +1,10 @@
 # DRN-1D2D
 protein contact map prediction
 
-# INSTALL
+## INSTALL
 
-1.
-git clone https://github.com/ChengfeiYan/DRN-1D2D.git
+### 1.install alnatats fasta2aln
+>git clone https://github.com/ChengfeiYan/DRN-1D2D.git
 
 2.
 cd bin
