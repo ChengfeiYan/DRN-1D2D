@@ -78,3 +78,7 @@ protein contact map prediction
     make -j 4 && make install
     export PATH="$(pwd)/bin:$(pwd)/scripts:$PATH"
 
+## Usage:
+`python predictor.py a3m_file fasta_file save_path ncpu`
+
+
