@@ -7,7 +7,7 @@ protein contact map prediction
 `git clone https://github.com/ChengfeiYan/DRN-1D2D.git`
 
 ### 2. install alnstats; fasta2aln
-`cd bin`
+`cd bin`\n
 `gcc alnstats.c -lm -o alnstats`
 `g++ fasta2aln.cpp -o fasta2aln`
 
