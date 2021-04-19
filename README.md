@@ -11,12 +11,12 @@ protein contact map prediction
     gcc alnstats.c -lm -o alnstats
     g++ fasta2aln.cpp -o fasta2aln
 
-3.
-git clone --recursive https://github.com/soedinglab/CCMpred.git
-cd CCMpred
-cmake -DWITH_CUDA=OFF
-make
-cd ../
+### 3. install CCMpred
+    git clone --recursive https://github.com/soedinglab/CCMpred.git
+    cd CCMpred
+    cmake -DWITH_CUDA=OFF
+    make
+    cd ../
 
 4.
 git clone https://github.com/realbigws/Predict_Property
