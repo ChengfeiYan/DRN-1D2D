@@ -18,24 +18,24 @@ protein contact map prediction
     make
     cd ../
 
-4.
-git clone https://github.com/realbigws/Predict_Property
-cd Predict_Property
-cd source_code/
-	make
-cd ../../
+### 4.
+    git clone https://github.com/realbigws/Predict_Property
+    cd Predict_Property
+    cd source_code/
+    make
+    cd ../../
 
-5.
-git clone https://github.com/realbigws/TGT_Package
-cd TGT_Package
-cd source_code/
-	make
-cd ../../
+### 5.
+    git clone https://github.com/realbigws/TGT_Package
+    cd TGT_Package
+    cd source_code/
+    make
+    cd ../../
 
-6.
-git clone https://github.com/soedinglab/hh-suite.git
-mkdir -p hh-suite/build && cd hh-suite/build
-cmake -DCMAKE_INSTALL_PREFIX=. ..
-make -j 4 && make install
-export PATH="$(pwd)/bin:$(pwd)/scripts:$PATH"
+### 6.
+    git clone https://github.com/soedinglab/hh-suite.git
+    mkdir -p hh-suite/build && cd hh-suite/build
+    cmake -DCMAKE_INSTALL_PREFIX=. ..
+    make -j 4 && make install
+    export PATH="$(pwd)/bin:$(pwd)/scripts:$PATH"
 
