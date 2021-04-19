@@ -3,7 +3,7 @@ protein contact map prediction
 
 
 1.
-git clone --recursive https://github.com/ChengfeiYan/DRN-1D2D.git
+git clone https://github.com/ChengfeiYan/DRN-1D2D.git
 
 2.
 cd bin
