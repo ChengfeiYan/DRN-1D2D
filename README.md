@@ -18,21 +18,21 @@ protein contact map prediction
     make
     cd ../
 
-### 4.
+### 4. install Predict_Property
     git clone https://github.com/realbigws/Predict_Property
     cd Predict_Property
     cd source_code/
     make
     cd ../../
 
-### 5.
+### 5. install TGT_Package
     git clone https://github.com/realbigws/TGT_Package
     cd TGT_Package
     cd source_code/
     make
     cd ../../
 
-### 6.
+### 6. install hh-suite
     git clone https://github.com/soedinglab/hh-suite.git
     mkdir -p hh-suite/build && cd hh-suite/build
     cmake -DCMAKE_INSTALL_PREFIX=. ..
