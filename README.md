@@ -3,13 +3,13 @@ protein contact map prediction
 
 ## INSTALL
 
-### 1.install alnatats fasta2aln
+### 1. install DRN-1D2D
 `git clone https://github.com/ChengfeiYan/DRN-1D2D.git`
 
-2.
-cd bin
-gcc alnstats.c -lm -o alnstats
-g++ fasta2aln.cpp -o fasta2aln
+### 2. install alnstats; fasta2aln
+`cd bin`
+`gcc alnstats.c -lm -o alnstats`
+`g++ fasta2aln.cpp -o fasta2aln`
 
 3.
 git clone --recursive https://github.com/soedinglab/CCMpred.git
