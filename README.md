@@ -4,7 +4,7 @@ protein contact map prediction
 ## INSTALL
 
 ### 1. install DRN-1D2D
-`git clone https://github.com/ChengfeiYan/DRN-1D2D.git`
+    git clone https://github.com/ChengfeiYan/DRN-1D2D.git
 
 ### 2. install alnstats; fasta2aln
     cd bin
