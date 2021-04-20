@@ -3,12 +3,12 @@ protein contact map prediction
 
 
 ## Requirements
-- python3.6
+#### - python3.6
   1. pytorch1.6  
   2. numpy
   3. matplotlib
   4. pickle
-- other packages
+#### - other packages
   1. [alnstats](https://github.com/psipred/metapsicov/tree/master/src)
   2. [fasta2aln](https://github.com/kad-ecoli/hhsuite2/blob/master/bin/fasta2aln)
   3. [Loadhmm](https://github.com/j3xugit/RaptorX-Contact/blob/master/Common/LoadHHM.py)
