@@ -11,10 +11,11 @@ protein contact map prediction
 - other packages
   1. [alnstats](https://github.com/psipred/metapsicov/tree/master/src)
   2. [fasta2aln](https://github.com/kad-ecoli/hhsuite2/blob/master/bin/fasta2aln)
-  3. [CCMpred](https://github.com/soedinglab/CCMpred)
-  4. [TGT_Package](https://github.com/realbigws/TGT_Package)
-  5. [Predict_Property](https://github.com/realbigws/Predict_Property)
-  6. [hh-suite](https://github.com/soedinglab/hh-suite)
+  3. [Loadhmm](https://github.com/j3xugit/RaptorX-Contact/blob/master/Common/LoadHHM.py)
+  4. [CCMpred](https://github.com/soedinglab/CCMpred)
+  5. [TGT_Package](https://github.com/realbigws/TGT_Package)
+  6. [Predict_Property](https://github.com/realbigws/Predict_Property)
+  7. [hh-suite](https://github.com/soedinglab/hh-suite)
 
 ## Installation
 ### 1. Install python environments(pytorch):
