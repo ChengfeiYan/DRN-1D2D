@@ -3,7 +3,7 @@ protein contact map prediction
 
 
 ## Requirements
-#### - python3.6
+- #### python3.6
   1. pytorch1.6  
   2. numpy
   3. matplotlib
