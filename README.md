@@ -88,3 +88,6 @@ protein contact map prediction
 
     cd DRN-1D2D  
     python ./scripts/predictor.py ./example/test.a3m ./example/test.fasta ./example 1
+
+## Citing:
+Yunda Si, Chengfei Yan, Improved protein contact prediction using dimensional hybrid residual networks and singularity enhanced loss function, Briefings in Bioinformatics, 2021;, bbab341, https://doi.org/10.1093/bib/bbab341
