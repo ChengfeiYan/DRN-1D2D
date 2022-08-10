@@ -91,3 +91,5 @@ protein contact map prediction
 
 ## Citing:
 Yunda Si, Chengfei Yan, Improved protein contact prediction using dimensional hybrid residual networks and singularity enhanced loss function, Briefings in Bioinformatics, 2021;, bbab341, https://doi.org/10.1093/bib/bbab341
+
+If you meet any problem in installing and running the program, please contact chengfeiyan@hust.edu.cn
