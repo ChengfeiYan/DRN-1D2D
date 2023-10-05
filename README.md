@@ -89,6 +89,9 @@ protein contact map prediction
     cd DRN-1D2D  
     python ./scripts/predictor.py ./example/test.a3m ./example/test.fasta ./example 1
 
+## Train
+The script used to train DRN-1D2D is [train.py](https://github.com/ChengfeiYan/DRN-1D2D/blob/main/train.py) and [BCEFocalLoss.py](https://github.com/ChengfeiYan/DRN-1D2D/blob/main/BCEFocalLoss.py), which contains all the details of training DRN-1D2D, including how to choose the best model, how to calculate the loss, etc.
+
 ## Citing:
 Yunda Si, Chengfei Yan, Improved protein contact prediction using dimensional hybrid residual networks and singularity enhanced loss function, Briefings in Bioinformatics, 2021;, bbab341, https://doi.org/10.1093/bib/bbab341
 
